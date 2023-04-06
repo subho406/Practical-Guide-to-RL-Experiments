@@ -1,6 +1,6 @@
 # Practical Guide to running RL Experiments
 
-**Presentation**: [LINK](https://www.google.com)
+**Presentation**: [LINK]([https://www.google.com](https://github.com/subho406/Practical-Guide-to-RL-Experiments/raw/main/Presentation.pdf))
 
 ## Requirements
 

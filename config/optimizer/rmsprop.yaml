@@ -1,0 +1,2 @@
+type: rmsprop
+lr: 0.001

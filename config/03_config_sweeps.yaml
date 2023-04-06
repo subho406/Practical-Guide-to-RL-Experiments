@@ -1,0 +1,12 @@
+seed: 42
+num_steps: 100
+decay_rate: 10
+defaults:
+  - optimizer: adam
+
+hydra:
+  mode: MULTIRUN
+  sweeper:
+    params:
+      optimizer.lr: 0.001, 0.01, 0.1
+      seeds: 1,2,3,4,5

@@ -1,0 +1,6 @@
+seed: 42
+num_steps: 100
+decay_rate: 10
+optimizer:
+  type: adam
+  lr: 0.001
